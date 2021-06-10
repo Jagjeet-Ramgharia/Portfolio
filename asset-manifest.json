@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e224a3be.chunk.css",
+    "main.js": "/Portfolio/static/js/main.8640c0ad.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.8640c0ad.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.22e6c0ff.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.22e6c0ff.js.map",
+    "static/css/2.74c02967.chunk.css": "/Portfolio/static/css/2.74c02967.chunk.css",
+    "static/js/2.0d18d29b.chunk.js": "/Portfolio/static/js/2.0d18d29b.chunk.js",
+    "static/js/2.0d18d29b.chunk.js.map": "/Portfolio/static/js/2.0d18d29b.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/Portfolio/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.e224a3be.chunk.css.map": "/Portfolio/static/css/main.e224a3be.chunk.css.map",
+    "static/js/2.0d18d29b.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.0d18d29b.chunk.js.LICENSE.txt",
+    "static/media/1.04146626.png": "/Portfolio/static/media/1.04146626.png",
+    "static/media/Jagjeet-Ramgharia.408b4c86.PNG": "/Portfolio/static/media/Jagjeet-Ramgharia.408b4c86.PNG",
+    "static/media/star.109b4cce.jpg": "/Portfolio/static/media/star.109b4cce.jpg",
+    "static/media/student.0d450474.jpg": "/Portfolio/static/media/student.0d450474.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22e6c0ff.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.0d18d29b.chunk.js",
+    "static/css/main.e224a3be.chunk.css",
+    "static/js/main.8640c0ad.chunk.js"
+  ]
+}
